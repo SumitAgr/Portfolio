@@ -1,0 +1,16 @@
+---
+layout: post
+title: Simple Text Editor in Python
+subtitle: Made with Tkinter in Python
+tags: [tkinter]
+---
+
+I wrote a simple text editor in python using the Tkinter graphical user interface library. It has two options: Save and Open which lets you open a .txt file within the simplistic text editor. However, you can save the file in whichever you format you wish.
+
+Here are some working screenshots of this lightning fast text editor:
+
+## Screenshot:
+
+![alt text](https://i.imgur.com/iy0p5uI.png)
+
+![alt text](https://i.imgur.com/FXOXKry.png)
