@@ -20,7 +20,7 @@ More info: [Project Page](https://sumitagr.github.io/PictureofTheDay-Bot/)
 View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/PictureofTheDay-Bot)
 
 ### 🌡️ Weather Cove - Forecast Web App
-A weather application built for American cities using OpenWeatherMap API
+A weather application built for American cities using OpenWeatherMap API and React.JS
 <br>
 More info: [Project Page](https://sumitagr.github.io/Weather-Forecast-Application/)
 <br>
