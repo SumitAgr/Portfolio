@@ -61,7 +61,7 @@ More info: [Project Page](https://sumitagr.github.io/Student-Record-Application/
 <br>
 View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/Student-Record-Application)
 
-## __Data Visualizations__
+## <u> Data Visualizations </u>
 
 ### 🍷 Alcohol Consumption Per Capita By Country (2016)
 Data visualization created using World Bank's open-source dataset containing information about alcohol consumption per capita by country
@@ -69,6 +69,14 @@ Data visualization created using World Bank's open-source dataset containing inf
 More info: [Project Page](https://sumitagr.github.io/Alcohol-Consumption-By-Country/)
 <br>
 View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/Alcohol-Consumption-By-Country)
+
+### ⏳ Average Life Expectancy in the US (1900 - 2014)
+Data visualization created using US Govt. Data containing information about life expectancy for adults in the US
+<br>
+More info: [Project Page](https://sumitagr.github.io/Average-Life-Expectancy-in-the-US/)
+<br>
+View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/Average-Life-Expectancy-in-the-US)
+
 
 
 
