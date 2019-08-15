@@ -61,7 +61,7 @@ More info: [Project Page](https://sumitagr.github.io/Student-Record-Application/
 <br>
 View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/Student-Record-Application)
 
-## Data Visualizations
+## __Data Visualizations__
 
 ### 🍷 Alcohol Consumption Per Capita By Country (2016)
 Data visualization created using World Bank's open-source dataset containing information about alcohol consumption per capita by country
