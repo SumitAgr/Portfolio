@@ -15,7 +15,7 @@ View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/StockInfo-Bot
 ### 🎵 Random Tune Bot
 A Twitter bot that scrapes top music submissions from Reddit and tweets a random tune every 4 hours
 <br>
-More info: [Project Page](https://sumitagr.github.io/StockInfo-Bot/)
+More info: [Project Page](https://sumitagr.github.io/Random-Tune-Bot/)
 <br>
 View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/Random-Tune-Bot)
 
