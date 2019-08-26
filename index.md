@@ -12,6 +12,13 @@ More info: [Project Page](https://sumitagr.github.io/StockInfo-Bot/)
 <br>
 View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/StockInfo-Bot)
 
+### 🎵 Random Tune Bot
+A Twitter bot that scrapes top music submissions from Reddit and tweets a random tune every 4 hours
+<br>
+More info: [Project Page](https://sumitagr.github.io/StockInfo-Bot/)
+<br>
+View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/Random-Tune-Bot)
+
 ### 🛰️ Picture of the Day Bot
 A Telegram bot that displays NASA's Astronomy Picture of the Day with a single command
 <br>
