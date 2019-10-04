@@ -70,20 +70,20 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-# facebook: daattali
+# facebook: 
   github: SumitAgr
   twitter: SumitRadhesham
-#  reddit: yourname
-#  google-plus: +DeanAttali
+#  reddit: 
+#  google-plus: 
   linkedin: sumitragrawal
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  stackoverflow: 
+#  snapchat: 
+#  instagram: 
+#  youtube: 
+#  spotify: 
+#  telephone: +10000000000
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "SumitAgrawal.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "SumitAgrawal.com"  
 
 # --- Web Statistics Section --- #
 
@@ -239,7 +239,5 @@ plugins:
   - jekyll-sitemap
   
 remote_theme: Richienb/jekyll-theme-richienb
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
 theme: jekyll-theme-cayman
