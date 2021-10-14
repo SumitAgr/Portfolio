@@ -12,6 +12,14 @@ More info: [Project Page](https://sumitagr.github.io/StockInfo-Bot/)
 <br>
 View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/StockInfo-Bot)
 
+### <img src="https://i.imgur.com/Vw7IVeC.png" alt="body-info"></a> Project Phoenix
+A REST/RESTful API made with Python and the Flask microframework
+<br>
+More info: [Project Page](https://github.com/SumitAgr/Project-Phoenix-REST-API)
+<br>
+View the code on GitHub: [GitHub Code](https://github.com/SumitAgr/Project-Phoenix-REST-API)
+
+
 ### 🎵 Random Tune Bot
 A Twitter bot that scrapes top music submissions from Reddit and tweets a random tune every 4 hours
 <br>
